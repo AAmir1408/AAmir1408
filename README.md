@@ -5,6 +5,7 @@
   
 
 - ⚡️ Fun fact: I love variable
+- My goal is to become a fullstack developer and create games
 
 
 ## My Skill Set  
